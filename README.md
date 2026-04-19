@@ -4,6 +4,8 @@ A high-performance, frame-rate independent system for controlling 3D actor movem
 
 ## 📺 Technical Showcase
 https://youtu.be/t6Du1QYcxtQ 
+<img width="1265" height="763" alt="image" src="https://github.com/user-attachments/assets/8dbad0c9-9045-4dc7-80d6-e100a3e8626e" />
+
 
 ---
 
