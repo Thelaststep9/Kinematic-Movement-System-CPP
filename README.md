@@ -3,7 +3,7 @@
 A high-performance, frame-rate independent system for controlling 3D actor movement and rotation. Designed for precision-based gameplay where predictable motion is critical.
 
 ## 📺 Technical Showcase
-[![Watch the Showcase](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=t6Du1QYcxtQ)
+[![Watch the Showcase](https://img.youtube.com/vi/t6Du1QYcxtQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=t6Du1QYcxtQ)
 
 
 ---
